@@ -1,0 +1,55 @@
+{
+    "name": "BOSS OF OPERATING SYSTEMS",
+    "short_name": "BOS",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "./icons/plane.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/cellular.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/wifi.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/bluetooth.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/brightness.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/volume.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/mirroring.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/rotation.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/music.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ]
+}
